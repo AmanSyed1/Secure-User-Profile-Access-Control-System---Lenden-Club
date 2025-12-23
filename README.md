@@ -8,10 +8,10 @@ SecureID is a microservice designed to handle sensitive user information (like G
 
 ## Application Screenshots
 ### Sign In Page
-![Login and Balance Screen](./snapshots/Sign_In,png)
+![Login and Balance Screen](snapshots/Sign_In.PNG)
 
 ### Sign Up Page
-![Login and Balance Screen](./snapshots/Sign_Up,png)
+![Login and Balance Screen](snapshots/Sign_Up.PNG)
 
 ### Dashboard Page
 ![Login and Balance Screen](snapshots/Dashboard.PNG)
