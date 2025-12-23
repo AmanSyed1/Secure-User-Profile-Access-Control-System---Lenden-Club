@@ -14,7 +14,7 @@ SecureID is a microservice designed to handle sensitive user information (like G
 ![Login and Balance Screen](./snapshots/Sign_Up,png)
 
 ### Dashboard Page
-![Login and Balance Screen](./snapshots/Dashboard,png)
+![Login and Balance Screen](snapshots/Dashboard.PNG)
 
 ## 2. Tech Stack
 - **Backend:** Python 3.10+, Flask, SQLAlchemy ORM
