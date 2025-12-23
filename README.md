@@ -6,6 +6,10 @@ A professional-grade identity management system built with security-first princi
 ## 1. Project Overview
 SecureID is a microservice designed to handle sensitive user information (like Government IDs) with robust encryption protocols. It uses a Flask-based backend for processing and a React-based frontend for user interaction.
 
+## Application Screenshots
+### Sign In Page
+![Login and Balance Screen]()
+
 ## 2. Tech Stack
 - **Backend:** Python 3.10+, Flask, SQLAlchemy ORM
 - **Frontend:** React 18, Tailwind CSS, TypeScript
