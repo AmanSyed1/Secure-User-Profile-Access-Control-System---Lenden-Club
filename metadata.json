@@ -1,0 +1,5 @@
+{
+  "name": "SecureID - Identity Management Microservice",
+  "description": "A high-security user profile and access control system featuring AES-256 encryption for sensitive data, JWT authentication, and a modern React dashboard.",
+  "requestFramePermissions": []
+}
